@@ -1,0 +1,96 @@
+body {
+    background-image: url(greyback.jpg);
+}
+
+h2 {
+    color: rgb(54, 46, 64);
+    padding-top: 0;
+}
+
+p {
+    font-size: small;
+}
+
+#changeColor {
+    color: brown;
+}
+
+#imageSize {
+    width: 150px;
+    height: 100px;
+    padding: 15px;
+
+}
+
+#series {
+    width: 200px;
+    height: 150px;
+    padding: 5px;
+    background: #6c6b8b;
+
+}
+
+#welcome {
+    background-color: #343457;
+    color: #919acb;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+
+}
+
+#one {
+    color: rgb(24, 22, 69);
+}
+
+#two {
+    color: rgb(24, 22, 69);
+}
+
+#tnree {
+    color: rgb(24, 22, 69);
+}
+
+#four {
+    color: rgb(24, 22, 69);
+}
+
+#five {
+    color: rgb(24, 22, 69);
+}
+
+td {
+    padding: 20px;
+}
+
+#box1 {
+    width: 355;
+    height: 200;
+    background-color: rgb(64, 53, 87);
+}
+
+list {
+    color: "black";
+}
+
+table {
+    width: 100%;
+}
+
+#move {
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #38364a;
+    color: #fff;
+    padding: 2px;
+}
+.content {
+    margin-top: 60px;
+    padding: 20px;
+}
